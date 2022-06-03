@@ -2,8 +2,6 @@
 
 Greetings!  NomadOps utilizes DevOps principals and Infrastructure As Code (IAC) to bootstrap, maintain, and manage yor DevOps environment. 
 
-We rp
-
 ### Technologies
 
 * **Cloud Platforms**:  Amazon Web Services, Google Cloud Platform, Linode, Heroku
