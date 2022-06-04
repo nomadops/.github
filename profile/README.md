@@ -1,17 +1,16 @@
 # NomadOps
 
-Greetings!  NomadOps utilizes DevOps principals and Infrastructure As Code (IAC) to bootstrap, maintain, and manage yor DevOps environment. 
+Greetings!  NomadOps utilizes DevOps principals and Infrastructure As Code (IAC) to bootstrap, maintain, and manage yor DevOps environment. We offer hourly consulting and project services, mothly support contracts and private or open-source Terraform module development & maintenance. Our engineers are American but are based in Istanbul (UTC+3).
 
 ### Technologies
 
 * **Cloud Platforms**:  Amazon Web Services, Google Cloud Platform, Linode, Heroku
-* **Containerization**: Docker, Kubernetes, AWS Fargate, AWS EKS, Kubernetes, Microk8s, Nomad, Snyk
+* **Containerization**: Docker, Kubernetes, AWS Fargate, AWS EKS, AWS Elastic Beanstalk, Kubernetes, Microk8s, Nomad, Snyk
 * **CI/CD**: Jenkins, CircleCI, Gitlab CI, GitHub Actions, Gitlab CI/CD, AWS CodePipeline, Atlantis, Spacelift
 * **DevOps Tooling**: Ansible, Packer, Bash, Python, Golang
 * **Infrastructure as Code**: Terraform, Terragrunt, Gruntworks, Packer, AWS CDK, Pulumi, CloudFormation, Cloudtruth, TFsec, Checkov, Driftctl, pre-commit, 
 * **Monitoring**: Prometheus, Grafana, Datadog, CloudWatch, CloudTrail, AWS Xray, Newrelic
-
-
+* **Logging**: CloudWatch, CloudTrail, Kibana, Elasticsearch, logstash, fluentd, fluent bit
 
 
 **Let's get in touch!**
