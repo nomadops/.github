@@ -1,6 +1,6 @@
 # NomadOps
 
-Greetings!  NomadOps utilizes DevOps principals and Infrastructure As Code (IAC) to bootstrap, maintain, and manage yor DevOps environment. We offer hourly consulting and project services, mothly support contracts and private or open-source Terraform module development & maintenance. Our engineers are American but are based in Istanbul (UTC+3).
+Greetings!  NomadOps utilizes DevOps principals and Infrastructure As Code (IAC) to bootstrap, maintain, and manage yor production and development pipelines in the cloud. We offer hourly consulting and project services, long-term IAC support contracts and private or open-source Terraform module development & maintenance. Our engineers are American but are based in Istanbul (UTC+3).
 
 ### Technologies
 
