@@ -25,7 +25,7 @@ Greetings!  NomadOps utilizes DevOps principals and Infrastructure As Code (IAC)
 [<img align="left" alt="https://registry.terraform.io/namespaces/nomadops" width="26" hspace="5" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />][slack]
 
 [docker]: https://hub.docker.com/u/nomadops
-[email]: mailto:sales@nomadops.io
+[email]: mailto:mhalligan@nomadops.io
 [github]: https://github.com/nomadops
 [website]: https://nomadops.io/
 [twitter]: https://twitter.com/nomadopsllc
